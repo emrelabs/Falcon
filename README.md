@@ -10,6 +10,6 @@ Arduino based input output card
 `{` <br />
 `}` <br />
 <br />
-`// analog input example use <br />`
-`int analogValue = falconIO.readAnalogInput(1);` <br />
+`// analog input example use`  <br />
+` int analogValue = falconIO.readAnalogInput(1); ` <br />
 
