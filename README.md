@@ -12,3 +12,4 @@ if( falconIO.readDigitalInput(1) )
 
 // analog input example use
 int analogValue = falconIO.readAnalogInput(1);
+
